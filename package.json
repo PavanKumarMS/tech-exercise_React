@@ -1,0 +1,25 @@
+{
+  "name": "tech-exercise_react",
+  "version": "1.0.0",
+  "description": "Exercise - Building Backend NodeJS and FrontEnd JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavanKumarMS/tech-exercise_React.git"
+  },
+  "author": "Pavan Kumar MS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavanKumarMS/tech-exercise_React/issues"
+  },
+  "homepage": "https://github.com/PavanKumarMS/tech-exercise_React#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.27.0",
+    "@typescript-eslint/parser": "^5.27.0",
+    "eslint": "^8.16.0",
+    "eslint-plugin-react": "^7.30.0"
+  }
+}
